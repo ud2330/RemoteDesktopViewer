@@ -54,7 +54,7 @@ A Java-based Remote Desktop Viewer application that enables secure screen sharin
 ### 1. Clone the Repository
 
 ```
-git clone https://github.com/your-username/RemoteDesktopViewer.git
+git clone https://github.com/ud2330/RemoteDesktopViewer.git
 ```
 
 ### 2. Navigate to the Project
